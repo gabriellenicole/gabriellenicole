@@ -1,9 +1,5 @@
 ## 🌟 About Me  
-I'm a software developer with a strong technical background, but my interests extend beyond just writing code. I enjoy understanding people’s perspectives, empathizing with them, and designing solutions that truly make an impact. My work spans various domains, including:
-- 📊 **Healthcare Data Analytics** – Visualizing ICD-10 codes and their relationship to healthcare costs.
-- 🏦 **Invoice Processing & Claims Automation** – Extracting structured data from invoices and medical claims.
-- 🔍 **Handwriting Recognition & ML** – Evaluating legibility to improve model accuracy.
-- 🔄 **CI/CD & DevOps** – Automating workflows and optimizing pipelines.
+I'm a software developer with a strong technical background, but my interests extend beyond just writing code. I enjoy understanding people’s perspectives, empathizing with them, and designing solutions that truly make an impact. 
 
 When I'm not coding, you’ll find me ☕ **cafe hopping in search of the perfect brew**, 🇪🇸 **practicing Spanish one phrase at a time**, or 🧠 **diving into deep discussions about human behavior and what drives people’s actions**.  
 
